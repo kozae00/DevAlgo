@@ -8,12 +8,12 @@
 ## 👩‍👦‍👦 **스터디 멤버**
 <table>
   <tr>
+    <td align="center"><a href="https://github.com/yunjuKimm"><b>@yunjuKimm</b></td>
+    <td align="center"><a href="https://github.com/j1suk1m"><b>@j1suk1m</b></td>
+    <td align="center"><a href="https://github.com/jin214930"><b>@jin214930</b></td>
+    <td align="center"><a href="https://github.com/huipadyam"><b>@huipadyam</b></td>
     <td align="center"><a href="https://github.com/xaxeon"><b>@xaxeon</b></td>
-    <td align="center"><a href="https://github.com/xaxeon"><b>@xaxeon</b></td>
-    <td align="center"><a href="https://github.com/xaxeon"><b>@xaxeon</b></td>
-    <td align="center"><a href="https://github.com/xaxeon"><b>@xaxeon</b></td>
-    <td align="center"><a href="https://github.com/xaxeon"><b>@xaxeon</b></td>
-    <td align="center"><a href="https://github.com/xaxeon"><b>@xaxeon</b></td>
+    <td align="center"><a href="https://github.com/joungGo"><b>@joungGo</b></td>
   </tr>
   <tr> 
     <td align="center">Java</td>
@@ -24,12 +24,12 @@
     <td align="center">Java</td>
   </tr> 
   <tr>
+    <td align="center"><a href="https://github.com/Jinyoung0718"><b>@Jinyoung0718</b></td>
+    <td align="center"><a href="https://github.com/sameom1048"><b>@sameom1048</b></td>
+    <td align="center"><a href="https://github.com/Lined1"><b>@Lined1</b></td>
     <td align="center"><a href="https://github.com/xaxeon"><b>@xaxeon</b></td>
-    <td align="center"><a href="https://github.com/xaxeon"><b>@xaxeon</b></td>
-    <td align="center"><a href="https://github.com/xaxeon"><b>@xaxeon</b></td>
-    <td align="center"><a href="https://github.com/xaxeon"><b>@xaxeon</b></td>
-    <td align="center"><a href="https://github.com/xaxeon"><b>@xaxeon</b></td>
-    <td align="center"><a href="https://github.com/xaxeon"><b>@xaxeon</b></td>
+    <td align="center"><a href="https://github.com/jsc5023"><b>@jsc5023</b></td>
+    <td align="center"><a href="https://github.com/cjw0324"><b>@cjw0324</b></td>
   </tr>
   <tr> 
     <td align="center">Java</td>
