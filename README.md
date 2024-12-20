@@ -66,9 +66,13 @@
 
 <br />
 
-## ✅ 소스코드 파일 이름 규칙
-- {해당 날짜} + {세트 이름} + {문제 제목}.md
+## ✅ 소스코드 파일 규칙
+### 📌 제목
+- {해당 날짜} + {세트 이름} + {문제 이름}.md
   <br /> `241220 해시 폰켓몬.md`
+### ✒️ 본문
+- 문제 링크
+  <br /> https://school.programmers.co.kr/learn/courses/30/lessons/1845
 - 간단한 풀이 방법 기재
   <br /> `A 방법으로 풀다가 너무 난해해지는 것 같아 B 방법으로 접근했더니 빠르게 풀 수 있었다.`
 - 코드블럭에 소스코드 올리기
@@ -82,9 +86,8 @@
 
 ## ✅ commit 규칙
 - commit 메세지: [{본인 이름}] {세트 이름} _ {문제 이름} _ {난이도(level 1 등)}
-- description: {문제 주소} (description은 필수가 아닙니다)
+- description: (description은 필수가 아닙니다)
 - `[김하연] 해시_폰켓몬_level1`
-- `https://school.programmers.co.kr/learn/courses/30/lessons/1845`
 
 <br />
 
@@ -95,12 +98,12 @@
 <br />
 
 ## ✅How to Code Review   
-#### 1. Commit History로 리뷰하는 방법 
+### 1. Commit History로 리뷰하는 방법 
 1. 커밋 기록 조회
 2. 특정 커밋 클릭
 3. 맨 아래 comment 달기   
 
-#### 2. Pull Request로 리뷰하는 방법   
+### 2. Pull Request로 리뷰하는 방법   
 1. 리뷰할 Pull Request 클릭
 2. Files changed 클릭
 3. 코드 중 원하는 부분에 + 버튼을 누르고 comment 혹은 review 달기 
