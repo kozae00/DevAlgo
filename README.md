@@ -26,7 +26,7 @@
   <tr>
     <td align="center"><a href="https://github.com/Jinyoung0718"><b>@Jinyoung0718</b></td>
     <td align="center"><a href="https://github.com/sameom1048"><b>@sameom1048</b></td>
-    <td align="center"><a href="https://github.com/Lined1"><b>@Lined1</b></td>
+    <td align="center"><a href="https://github.com/Lined1"><b>@linedj</b></td>
     <td align="center"><a href="https://github.com/xaxeon"><b>@xaxeon</b></td>
     <td align="center"><a href="https://github.com/jsc5023"><b>@jsc5023</b></td>
     <td align="center"><a href="https://github.com/cjw0324"><b>@cjw0324</b></td>
