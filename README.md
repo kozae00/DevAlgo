@@ -26,8 +26,8 @@
   <tr>
     <td align="center"><a href="https://github.com/Jinyoung0718"><b>@Jinyoung0718</b></td>
     <td align="center"><a href="https://github.com/sameom1048"><b>@sameom1048</b></td>
-    <td align="center"><a href="https://github.com/Lined1"><b>@linedj</b></td>
-    <td align="center"><a href="https://github.com/xaxeon"><b>@xaxeon</b></td>
+    <td align="center"><a href="https://github.com/linedj"><b>@linedj</b></td>
+    <td align="center"><a href="https://github.com/haeun9988"><b>@haeun9988</b></td>
     <td align="center"><a href="https://github.com/jsc5023"><b>@jsc5023</b></td>
     <td align="center"><a href="https://github.com/cjw0324"><b>@cjw0324</b></td>
   </tr>
@@ -100,7 +100,7 @@
 ## ✅How to Code Review   
 ### 1. Commit History로 리뷰하는 방법 
 1. 커밋 기록 조회
-2. 특정 커밋 클릭
+2. 원하는 커밋 클릭
 3. 맨 아래 comment 달기   
 
 ### 2. Pull Request로 리뷰하는 방법   
